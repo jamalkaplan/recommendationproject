@@ -127,5 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.notebook/data/twitter_data.csv
-.notebook/data/cleaned_twitter_data.csv
+notebook/data/twitter_data.csv
+notebook/data/cleaned_twitter_data.csv
