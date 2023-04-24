@@ -4,4 +4,10 @@ seaborn
 matplotlib
 scikit-learn
 imblearn
+dill
+catboost
+xgboost
+tweepy
+tweet-preprocessor 0.6.0
+mysql-connector-python-rf 2.2.2
 -e .
